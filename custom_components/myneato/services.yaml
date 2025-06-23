@@ -16,6 +16,7 @@ custom_cleaning:
             - 'eco'
             - 'turbo'
             - 'max'
+            - 'auto'
     zone:
       name: Name of the zone to clean as shown in MyNeato App
       description: Name of the zone(s) to clean. Defaults to no zone i.e. complete house cleanup. Seperated by comma (,) for multiple zones
